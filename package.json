@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/code-gliders-projects/",
+    "build": "vite build --base=/js-94_krok-code/",
     "preview": "vite preview"
   },
   "devDependencies": {
